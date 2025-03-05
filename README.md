@@ -2,6 +2,8 @@
 
 A Python simulator for CreaBot robot control and testing. This simulator provides a virtual environment for testing robot control functions without requiring physical hardware.
 
+[**English**](README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**中文简体**](README_CN.md)
+
 ## Features
 
 - Robot movement and navigation simulation
@@ -20,9 +22,13 @@ A Python simulator for CreaBot robot control and testing. This simulator provide
 
 ```python
 from creabot_simulator import Creabot
+# or
+# import creabot_simulator as creabot
 
 # Initialize robot with IP address
 bot = Creabot("192.168.1.100")
+# or
+#bot.creabot.Creabot("192.168.1.100")
 ```
 
 ### Movement Control
