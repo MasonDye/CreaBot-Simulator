@@ -15,6 +15,7 @@ A Python simulator for CreaBot robot control and testing. This simulator provide
 - Charging dock simulation
 - Position tracking
 - Status feedback with colored console output
+- Coming soon......
 
 ## Usage
 
