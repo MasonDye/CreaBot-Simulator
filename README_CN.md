@@ -2,7 +2,7 @@
 
 一个用于 CreaBot 机器人控制和测试的 Python 模拟器。该模拟器提供了一个虚拟环境，用于测试机器人控制功能，而无需实际的硬件设备。
 
-[**English**](https://chatgpt.com/c/README.md)     [**中文简体**](https://chatgpt.com/c/README_CN.md)
+[**English**](README.md)     [**中文简体**](README_CN.md)     [**官方API文档**](CreaAPI接口文档说明.pdf)
 
 ## 功能特点
 

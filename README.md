@@ -2,7 +2,7 @@
 
 A Python simulator for CreaBot robot control and testing. This simulator provides a virtual environment for testing robot control functions without requiring physical hardware.
 
-[**English**](README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**中文简体**](README_CN.md)
+[**English**](README.md)     [**中文简体**](README_CN.md)     [**Full API Docs**](CreaAPI接口文档说明.pdf)
 
 ## Features
 
